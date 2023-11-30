@@ -16,8 +16,9 @@ Listed contributions to the [Database](roa_uce_db_ids.tsv).
 | #1 | 61 | Kovacs _et al_. [_Syst Biol_] | [_Dryad_](https://doi.org/10.5061/dryad.fxpnvx0wx) |
 
 ## B/ Methods and suggested database usage
-Refer to same section at: [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB#b-methods-and-suggested-database-usage "Go to GitHub repo")
-With updated codes within each sub-section below.
+For general documentation, refer to same section on the Termite UCE Database (TER-UCE-DB), at: [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB#b-methods-and-suggested-database-usage "Go to GitHub repo")
+
+Updated codes within each sub-section are provided below.
 
 ### B.1. Extraction of UCEs from newly-generated assemblies
 ```
