@@ -17,7 +17,21 @@ Listed contributions to the [Database](roa_uce_db_ids.tsv).
 
 ## B/ Methods and suggested database usage
 Refer to same section at: [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB#b-methods-and-suggested-database-usage "Go to GitHub repo")
+With updated codes within each sub-section below.
 
-## D/ How to cite
+### B.1. Extraction of UCEs from newly-generated assemblies
+```
+### 1. Get the baits
+## Dryad: roaches-v1-master-probe-list-DUPE-SCREENED.fasta.gz
+wget XXX
+```
+### B.2. Leveraging the database
+```
+### 5. Generate the database
+## Contribution #1
+wget XXX
+```
+
+## C/ How to cite
 Kovacs, T.G.L, Walker, J., Hellemans, S., Bourguignon, T., Tatarnic, N.J., McRae, J.M., Ho, S.Y.W, Lo, N. 2023. Dating in the dark: elevated substitution rates in cave cockroaches (Blattodea: Nocticolidae) have negative impacts on molecular date estimates.
 [Preprint on _bioRxiv_ [2023.01.17.524483](https://doi.org/10.1101/2023.01.17.524483)]
