@@ -1,6 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/SystBiol-10.1093/sysbio/syae002-<COLOR>.svg)](https://doi.org/10.1093/sysbio/syae002)
 [![sihellem - ROA-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=ROA-UCE-DB&color=red&logo=github)](https://github.com/sihellem/ROA-UCE-DB "Go to GitHub repo")
-
-# /!\ UNDER CONSTRUCTION /!\
+[![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB "Go to GitHub repo")
 
 # The Cockroach UCE Database
 The Cockroach UCE Database. Centralization of cockroaches UCE data and assignation of unique identification code.
