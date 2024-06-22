@@ -1,6 +1,6 @@
-[![Generic badge](https://img.shields.io/badge/SystBiol-10.1093/sysbio/syae002-<COLOR>.svg)](https://doi.org/10.1093/sysbio/syae002)
 [![sihellem - ROA-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=ROA-UCE-DB&color=red&logo=github)](https://github.com/sihellem/ROA-UCE-DB "Go to GitHub repo")
-[![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB "Go to GitHub repo")
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Generic badge](https://img.shields.io/badge/SystBiol-10.1093/sysbio/syae002-<COLOR>.svg)](https://doi.org/10.1093/sysbio/syae002)
 
 # The Cockroach UCE Database
 The Cockroach UCE Database. Centralization of cockroaches UCE data and assignation of unique identification code.
