@@ -21,6 +21,13 @@ For general documentation, refer to same section on the Termite UCE Database (TE
 Updated codes within each sub-section are provided below.
 
 ### B.1. Extraction of UCEs from newly-generated assemblies
+The set of 319,243 baits targeting 30,059 UCE loci is available from _Dryad_ (File: [roaches-v1-master-probe-list-DUPE-SCREENED.fasta.gz](https://datadryad.org/stash/downloads/file_stream/2761879)).
+This bait set was designed using six genomes:
+- three publicly available genomes: _Blatella germanica_ (GenBank accession no. GCA_003018175.1), _Periplaneta americana_ (GCA_002939525.1), and the termite _Zootermopsis nevadensis_ (GCF_000696155.1);
+- three in-house genomes: _Geoscapheus dilatatus_, _Neogeoscapheus hanni_, and _Panesthia cribrata_.
+
+For details on the design, refer to the Supplementary Material on [Zenodo](https://zenodo.org/records/10398591).
+
 ```
 ### 1. Get the baits
 ## Dryad: roaches-v1-master-probe-list-DUPE-SCREENED.fasta.gz
